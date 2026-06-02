@@ -4,7 +4,7 @@ Prédiction automatique du défaut de remboursement d’un prêt immobilier (MOR
 
 ## Application déployée
 
-**Streamlit :** <https://loan-default-prediction-fares.streamlit.app>
+**Streamlit :** <https://loans-default-predictions.streamlit.app>
 
 ## Description du projet
 
