@@ -80,7 +80,7 @@ loan-default-prediction/
 └── README.md
 ```
 
-## Stack technique
+## Bibliothèques
 
 - **ML :** scikit-learn, XGBoost
 - **Visualisation :** Plotly, Matplotlib, Seaborn
