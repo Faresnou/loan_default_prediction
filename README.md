@@ -80,15 +80,6 @@ loan-default-prediction/
 └── README.md
 ```
 
-## Installation locale
-
-```bash
-git clone https://github.com/<votre-username>/loan-default-prediction.git
-cd loan-default-prediction
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ## Stack technique
 
 - **ML :** scikit-learn, XGBoost
